@@ -113,3 +113,10 @@ dmypy.json
 data/athlete_events.csv
 
 
+data/websites_train_sessions.csv
+data/websites_test_sessions.csv
+data/train_sessions.csv
+data/train.zip
+data/test_sessions.csv
+data/sample_submission.csv
+data/ODS_4.zip
