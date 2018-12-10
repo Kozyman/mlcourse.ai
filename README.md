@@ -4,7 +4,7 @@
 
 :ru: [Russian version](https://github.com/Yorko/mlcourse.ai/wiki/About-the-course-(in-Russian)) :ru: 
 
-:exclamation: Current session launched on **October 1, 2018**. Fill in [this form](https://drive.google.com/open?id=1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ) to participate, you can still join :exclamation:
+:exclamation: The next session is planned to launch on **February 11, 2019**. Please wait for an announcement in January :exclamation:
 
 Mirrors (:uk:-only): [mlcourse.ai](https://mlcourse.ai) (main site), [Kaggle Dataset](https://www.kaggle.com/kashnitsky/mlcourse) (same notebooks as Kernels)
 
@@ -43,7 +43,8 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
 6. Beating baselines in "How good is your Medium article?". [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment6_medium_beat_baseline.ipynb). Deadline: **November 18, 21:59 UTC+2**
 7. PCA and clustering. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment7_pca_clustering.ipynb). Deadline: **November 25, 21:59 UTC+2**
 8. StackOverflow questions tagging with logistic regression. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment8_stackoverflow_logistic_regression.ipynb). Deadline: **December 2, 21:59 UTC+2**
-
+9. Time series analysis. [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment9_time_series.ipynb). Deadline: **December 16, 21:59 UTC+2** 
+10. Flight delays prediction, beating simple baselines. [Kaggle Kernel](https://www.kaggle.com/kashnitsky/mlcourse-ai-assignment10). Deadline: **December 16, 21:59 UTC+2**
 
 The following are demo versions. Just for practice, they don't have an impact on rating.  
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
@@ -55,7 +56,6 @@ The following are demo versions. Just for practice, they don't have an impact on
 7. Unsupervised learning, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment07_unsupervised_learning.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-7-unupervised-learning)
 8. Implementing online regressor, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment08_implement_sgd_regressor.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-8-implementing-online-regressor)
 9. Time series analysis, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment09_time_series.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-9-time-series-analysis)
-10. Gradient boosting and flight delays, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment10_flight_delays_kaggle.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays)
 
 ### Kaggle competitions
 1. Catch Me If You Can: Intruder Detection through Webpage Session Tracking. [Kaggle Inclass](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2)

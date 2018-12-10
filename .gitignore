@@ -112,6 +112,7 @@ dmypy.json
 # large data files
 data/athlete_events.csv
 
+<<<<<<< HEAD
 
 data/websites_train_sessions.csv
 data/websites_test_sessions.csv
@@ -140,3 +141,10 @@ jupyter_english/assignments_fall2018/km11.csv
 data/movie_reviews_train.csv.zip
 data/movie_reviews_train.csv
 data/
+=======
+# solutions
+*_solution.ipynb
+
+# other shit
+.DS_Store
+>>>>>>> 70f8d9777277dca7d4449740e1b9257a16aeb2ff
